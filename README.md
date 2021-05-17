@@ -2,16 +2,18 @@
 
 # Information Technology  project Management 
 
-Phases of product life cycle
+* Phases of product life cycle
 
-Methods/Model used to develop a product 
+* Methods/Model used to develop a product 
 
-Scrum practices
+* Scrum practices
 
-Agile methodology
+* Agile methodology
 
-* Models 
+# Models 
 
 
-Waterfall model
-Spiral model
+* Waterfall model
+* Spiral model
+* Protoype Model
+* Agile Model
